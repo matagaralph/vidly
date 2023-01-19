@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/merzainc/vidly/static/css/main.fd28b839.css",
-    "main.js": "/merzainc/vidly/static/js/main.bd904c8c.js",
-    "static/js/787.fba8e351.chunk.js": "/merzainc/vidly/static/js/787.fba8e351.chunk.js",
-    "index.html": "/merzainc/vidly/index.html",
-    "main.fd28b839.css.map": "/merzainc/vidly/static/css/main.fd28b839.css.map",
-    "main.bd904c8c.js.map": "/merzainc/vidly/static/js/main.bd904c8c.js.map",
-    "787.fba8e351.chunk.js.map": "/merzainc/vidly/static/js/787.fba8e351.chunk.js.map"
+    "main.css": "/vidly/static/css/main.fd28b839.css",
+    "main.js": "/vidly/static/js/main.daf78b31.js",
+    "static/js/787.fba8e351.chunk.js": "/vidly/static/js/787.fba8e351.chunk.js",
+    "index.html": "/vidly/index.html",
+    "main.fd28b839.css.map": "/vidly/static/css/main.fd28b839.css.map",
+    "main.daf78b31.js.map": "/vidly/static/js/main.daf78b31.js.map",
+    "787.fba8e351.chunk.js.map": "/vidly/static/js/787.fba8e351.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd28b839.css",
-    "static/js/main.bd904c8c.js"
+    "static/js/main.daf78b31.js"
   ]
 }
