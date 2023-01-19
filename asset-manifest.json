@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/merzainc/vidly/static/css/main.c7702fb3.css",
+    "main.js": "/merzainc/vidly/static/js/main.8c3961a9.js",
+    "static/js/787.fba8e351.chunk.js": "/merzainc/vidly/static/js/787.fba8e351.chunk.js",
+    "index.html": "/merzainc/vidly/index.html",
+    "main.c7702fb3.css.map": "/merzainc/vidly/static/css/main.c7702fb3.css.map",
+    "main.8c3961a9.js.map": "/merzainc/vidly/static/js/main.8c3961a9.js.map",
+    "787.fba8e351.chunk.js.map": "/merzainc/vidly/static/js/787.fba8e351.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7702fb3.css",
+    "static/js/main.8c3961a9.js"
+  ]
+}
