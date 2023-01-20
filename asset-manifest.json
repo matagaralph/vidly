@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vidly/static/css/main.3e186b29.css",
-    "main.js": "/vidly/static/js/main.b7503e20.js",
+    "main.js": "/vidly/static/js/main.50c243ac.js",
     "static/js/787.fba8e351.chunk.js": "/vidly/static/js/787.fba8e351.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/vidly/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/vidly/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -10,11 +10,11 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/vidly/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/vidly/index.html",
     "main.3e186b29.css.map": "/vidly/static/css/main.3e186b29.css.map",
-    "main.b7503e20.js.map": "/vidly/static/js/main.b7503e20.js.map",
+    "main.50c243ac.js.map": "/vidly/static/js/main.50c243ac.js.map",
     "787.fba8e351.chunk.js.map": "/vidly/static/js/787.fba8e351.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3e186b29.css",
-    "static/js/main.b7503e20.js"
+    "static/js/main.50c243ac.js"
   ]
 }
