@@ -1,16 +1,12 @@
-@import url(https://rsms.me/inter/inter.css);
-
 /* Typography */
-:root {
-  font-family: 'Inter', sans-serif;
+@font-face {
+  font-family: Inter;
+  src: url('https: //fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
 }
 
-@supports (font-variation-settings: normal) {
-
-  :root,
-  html {
-    font-family: 'Inter var', sans-serif;
-  }
+:root,
+html {
+  font-family: 'Inter', sans-serif;
 }
 
 body {
@@ -20,6 +16,18 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.fas {
+  font-family: 'FontAwesome' !important;
+}
+
+.clikable {
+  cursor: pointer;
+}
+
+.fa-heart {
+  color: #dc3545;
 }
 
 code {
