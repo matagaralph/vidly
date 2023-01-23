@@ -1,36 +1,16 @@
-/* Typography */
-@font-face {
-  font-family: Inter;
-  src: url('https: //fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
-}
-
-:root,
-html {
-  font-family: 'Inter', sans-serif;
-}
-
 body {
   margin: 0;
-  font-family: -apple-system, Inter, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 20px 0 0 0;
+}
+
+.clickable {
+  cursor: pointer;
 }
 
 .fas {
-  font-family: 'FontAwesome' !important;
-}
-
-.clikable {
-  cursor: pointer;
+  font-family: FontAwesome !important;
 }
 
 .fa-heart {
   color: #dc3545;
-}
-
-code {
-  font-family: Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
 }
