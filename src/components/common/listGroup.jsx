@@ -12,7 +12,7 @@ const ListGroup = ({
       <li
         onClick={() => onItemSelect({ _id: "", name: "All Genres" },)}
         className={
-          selectedItem.name == "All Genres" ? "list-group-item active" : "list-group-item"
+          selectedItem.name === "All Genres" ? "list-group-item active" : "list-group-item"
         }
       >
         All Genres
