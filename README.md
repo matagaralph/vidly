@@ -1,7 +1,7 @@
 # Vidly
 A video rental app built with React, Express and Mongodb on the backend. From Mastering React course by Mosh Hamedani.
 
-Click here to view demo, [vidly](https://github.com/merzainc/vidly).
+Click here to view demo, [vidly](https://merzainc.github.io/vidly).
 
 ## Setup 
 
