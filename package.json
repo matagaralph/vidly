@@ -1,7 +1,7 @@
 {
   "name": "vidly",
-  "version": "2.1.0",
-  "homepage": "https://merzainc.github.io/vidly",
+  "version": "2.2.0",
+  "homepage": "https://username.github.io/repo-name",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
